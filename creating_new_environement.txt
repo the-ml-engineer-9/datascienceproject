@@ -1,0 +1,8 @@
+Guide to create new python virtual environment.
+
+With Conda
+
+1. conda create -p venv python==3.10
+3. conda initi
+4. restart the shell.(kill and restart the terminal)
+5. conda activate ./venv
